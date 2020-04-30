@@ -117,3 +117,7 @@ header p {
   color: hsl(228, 45%, 44%); 
   text-decoration: none;
 }
+
+footer p {
+  padding: 20px;
+}
